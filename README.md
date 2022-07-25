@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as an Actuary.
 - 🌱 I’m currently learning Python.
 - ⚡ I'm a big fan of machine learning.
-- 📫 How to reach me: Link to [LinkedIn](https://www.linkedin.com/in/robert-pikala/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robert-pikala/)
 
 <!--
 **robbsson/robbsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
