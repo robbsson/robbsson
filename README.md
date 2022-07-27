@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working as an Actuary.
 - 🌱 I’m currently learning Python.
-- ⚡ I'm a big fan of machine learning.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robert-pikala/)
 
 <!--
@@ -10,6 +9,7 @@
 
 Here are some ideas to get you started:
 
+- ⚡ I'm a big fan of machine learning.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
